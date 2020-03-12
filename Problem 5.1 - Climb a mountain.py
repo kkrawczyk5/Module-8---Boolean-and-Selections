@@ -20,3 +20,34 @@ def climb_a_mountain():
 
 
 climb_a_mountain()
+
+#characterInventory = ["pan","paper","idea","rope","groceries"]
+#characterStat = ["slow"]
+
+#def task(characterInventory,characterStat):
+#    if "rope" in characterInventory and "coat" in characterInventory and "first_aid_kit" in characterInventory:
+#        if "slow" in characterStat:
+#            print("Cannot climb a mountain while slow!")
+#        else:
+#            print("Prepared to climb a mountain!")
+#    else:
+#        print("Not equipped to climb a mountain!")
+        
+#    if "pan" in characterInventory and "groceries" in characterInventory:
+#        if "small" in characterStat:
+#           print("Cannot cook a meal while small!")
+#        else:
+#            print("Prepared to cook a meal!")
+            
+#    else:
+#        print("Not equipped to cook a meal!")
+#    if "pen" in characterInventory and "paper" in characterInventory and "idea" in characterInventory:
+#        if "confusion" in characterStat:
+#            print("Cannot write a book while confused!")
+#        else:
+#            print("Prepared to write a book!")
+#    else:
+#        print("Not equipped to write a book!")
+        
+#    return()
+#task(characterInventory, characterStat)
